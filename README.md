@@ -24,7 +24,7 @@
 | [Intrusion Detection System (ML)](#) | PCA + Random Forest, 96.78% accuracy on DDoS traffic, outperforming SVM/Naive Bayes |
 | [Malware analysis notes](#) | Static analysis of 11 Windows binaries in Ghidra, 11 documented IoCs |
 
-*(Replace the `#` links above with the actual repo URLs once pinned.)*
+
 
 ---
 
