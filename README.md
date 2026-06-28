@@ -21,8 +21,8 @@
 | Project | What it shows |
 |---|---|
 | [Human Hub — Azure cloud infra](#) | Serverless (HTTP/Timer/Queue) architecture, IaC with Terraform + Bicep, provisioning cut from hours to <15 min |
-| [Intrusion Detection System (ML)](#) | PCA + Random Forest, 96.78% accuracy on DDoS traffic, outperforming SVM/Naive Bayes |
-| [Malware analysis notes](#) | Static analysis of 11 Windows binaries in Ghidra, 11 documented IoCs |
+| [Intrusion Detection System (ML)](https://ijesr.org/index.php/ijesr/article/view/856) | PCA + Random Forest, 96.78% accuracy on DDoS traffic, outperforming SVM/Naive Bayes |
+| [Malware analysis notes] | Static analysis of 11 Windows binaries in Ghidra, 11 documented IoCs |
 
 
 
